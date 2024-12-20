@@ -1,3 +1,12 @@
+<style>
+table th {
+    white-space: nowrap;
+}
+table td {
+    white-space: nowrap; 
+}
+</style>
+
 # 小米历代路由器参数汇总
 
 > 表格图片版请前往此链接获取 https://zhuanlan.zhihu.com/p/13178688078
